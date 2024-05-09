@@ -1105,69 +1105,6 @@
         margin-bottom: calc(123 / 850 * 100vw);
     }
 
-    .section8 .content2 .left {
-        width: 100%;
-        margin-right: 0;
-        height: auto;
-        background: #272727;
-        border-radius: calc(42 / 850 * 100vw);
-        border: calc(2 / 850 * 100vw) solid #1C91E2;
-        padding-top: calc(39 / 850 * 100vw);
-        padding-left: calc(47 / 850 * 100vw);
-        padding-right: calc(38 / 850 * 100vw);
-        padding-bottom: 7vw;
-    }
-
-    .section8 .content2 .left .tit {
-        font-family: Century Gothic;
-        font-weight: bold;
-        font-size: calc(30 / 850 * 100vw);
-        color: #FFFFFF;
-        line-height: calc(58 / 850 * 100vw);
-        background: url(../images/co.png) no-repeat right center;
-        background-size: auto calc(100 / 850 * 100vw);
-        margin-bottom: calc(21 / 850 * 100vw);
-    }
-
-    .section8 .content2 .left .dec {
-        font-family: Century Gothic;
-        font-weight: 400;
-        font-size: calc(18 / 850 * 100vw);
-        color: #fff;
-        margin-bottom: calc(47 / 850 * 100vw);
-        line-height: 1.2;
-    }
-
-    .section8 .content2 .left .inputwords {
-        zoom:1;overflow: hidden;
-    }
-
-    .section8 .content2 .left .inputwords input {
-        float: left;
-        height: calc(67 / 850 * 100vw);
-        border: none;
-        background: none;
-        font-family: Century Gothic;
-        font-weight: bold;
-        font-size: calc(25 / 850 * 100vw);
-        color: #FFFFFF;
-        padding-left: calc(34 / 850 * 100vw);
-        width: calc(100% - 60px);
-        background: rgb(0 0 0 / 20%);
-    }
-
-    .section8 .content2 .left .inputwords a {
-        width: 60px;
-        line-height: calc(67 / 850 * 100vw);
-        background: #FFFFFF;
-        float: left;
-        text-align: center;
-        font-family: Century Gothic;
-        font-weight: bold;
-        font-size: calc(18 / 850 * 100vw);
-        color: #000000;
-    }
-
     .section8 .content2 .right {
         background: #1B2838;
         border-radius: calc(42 / 850 * 100vw);
