@@ -1,0 +1,27 @@
+/*此代码非源码，仅为演示用，下载源码请到：*//*此代码非源码，仅为演示用，下载源码请到：*/*,*:after,*:before{box-sizing:border-box}:root{--bg:#ecd798}body{background:var(--bg);min-height:100vh;display:grid;place-items:center}.aj{height:35vmin;cursor:-webkit-grab;cursor:grab}/*此代码非源码，仅为演示用，下载源码请到：*//*此代码非源码，仅为演示用，下载源码请到：*/
+
+
+
+  .more {
+    width: calc(530 / 1920 * 100vw);
+    line-height: calc(125 / 1920 * 100vw);
+    background: #ffffff7a;
+    border: calc(8 / 1920 * 100vw) solid #000000;
+    border-radius: calc(70 / 1920 * 100vw);
+    margin: auto;
+    margin-top: calc(55 / 1920 * 100vw);
+    display: block;
+    font-size: calc(63 / 1920 * 100vw);
+    font-family: PumpStd;
+    font-weight: 400;
+    color: #000;
+    -webkit-text-stroke: calc(2 / 1920 * 100vw) #000000;
+    text-stroke: calc(5 / 1920 * 100vw) #000000;
+}
+	
+
+
+
+
+
+
